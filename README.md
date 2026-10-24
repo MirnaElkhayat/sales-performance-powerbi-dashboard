@@ -14,4 +14,5 @@ A multi-page Power BI dashboard for presenting sales data and business insights.
 - Business insight presentation
 
 ## Open the project
-The `.pbix` file will be uploaded after its embedded data is reviewed for public sharing. Open it using Power BI Desktop.
+Download `Assignment1_Mirna.pbix` and open it using Power BI Desktop.
+
